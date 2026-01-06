@@ -1,4 +1,4 @@
-# News Summary App
+# InstaNewz
 
 This is a simple news summary app that uses a News API to fetch news articles and a Large Language Model (LLM) to summarize articles.
 The app uses `Kokoro Text-to-speech` model from `HuggingFace` to convert news articles into speech for the user to listen to. It supports multiple languages and can be configured to read the summaries in the user's preferred language.
